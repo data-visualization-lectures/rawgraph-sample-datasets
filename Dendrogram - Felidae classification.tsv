@@ -1,39 +1,39 @@
-Family	Subfamily	Genus	Subspecies	Name	Risk of Extinction
-Felidae	Acinonychinae	Acinonyx	Acinonyx jubatus	cheetah	4
-Felidae	Felinae	Catopuma	Catopuma badia	bay cat	5
-Felidae	Felinae	Catopuma	Catopuma temminckii	Asiatic golden cat	3
-Felidae	Felinae	Felis	Felis catus	domestic cat	1
-Felidae	Felinae	Felis	Felis chaus	jungle cat	2
-Felidae	Felinae	Felis	Felis margarita	sand cat	2
-Felidae	Felinae	Felis	Felis nigripes	black-footed cat	4
-Felidae	Felinae	Felis	Felis silvestris	wild cat	1
-Felidae	Felinae	Leopardus	Leopardus colocolo	Colocolo	3
-Felidae	Felinae	Leopardus	Leopardus geoffroyi	Geoffroy's cat	2
-Felidae	Felinae	Leopardus	Leopardus guigna	Kodkod	4
-Felidae	Felinae	Leopardus	Leopardus guttulus	Southern oncilla	4
-Felidae	Felinae	Leopardus	Leopardus jacobita	Andean mountain cat	5
-Felidae	Felinae	Leopardus	Leopardus pardalis	ocelot	2
-Felidae	Felinae	Leopardus	Leopardus tigrinus	little spotted cat	4
-Felidae	Felinae	Leopardus	Leopardus wiedii	margay	3
-Felidae	Felinae	Leptailurus	Leptailurus serval	serval	2
-Felidae	Felinae	Lynx	Lynx canadensis	Canada lynx	2
-Felidae	Felinae	Lynx	Lynx lynx	Eurasian lynx	2
-Felidae	Felinae	Lynx	Lynx pardinus	Spanish lynx	5
-Felidae	Felinae	Lynx	Lynx rufus	bobcat	2
-Felidae	Felinae	Otocolobus	Otocolobus manul	Pallas's cat	2
-Felidae	Felinae	Prionailurus	Prionailurus bengalensis	leopard cat	2
-Felidae	Felinae	Prionailurus	Prionailurus iriomotensis	Iriomote cat	6
-Felidae	Felinae	Prionailurus	Prionailurus planiceps	flat-headed cat	5
-Felidae	Felinae	Prionailurus	Prionailurus rubiginosus	rusty-spotted cat	3
-Felidae	Felinae	Prionailurus	Prionailurus viverrinus	fishing cat	4
-Felidae	Felinae	Profelis	Profelis aurata	African golden cat	4
-Felidae	Felinae	Puma	Puma concolor	puma	2
-Felidae	Felinae	Puma	Puma yagouaroundi	jaguarundi	2
-Felidae	Pantherinae	Neofelis	Neofelis diardi	Sunda clouded leopard	4
-Felidae	Pantherinae	Neofelis	Neofelis nebulosa	Clouded leopard	4
-Felidae	Pantherinae	Panthera	Panthera leo	lion	4
-Felidae	Pantherinae	Panthera	Panthera onca	jaguar	3
-Felidae	Pantherinae	Panthera	Panthera pardus	leopard	4
-Felidae	Pantherinae	Panthera	Panthera tigris	tiger	5
-Felidae	Pantherinae	Panthera	Panthera uncia	snow leopard	4
-Felidae	Pantherinae	Pardofelis	Pardofelis marmorata	marbled cat	3
+科	亜科	属	亜種	名称	絶滅のリスク
+ネコ科	チーター亜科	チーター属	チーター	チーター	4
+ネコ科	ネコ亜科	アジアゴールデンキャット属	ボルネオヤマネコ	ボルネオヤマネコ	5
+ネコ科	ネコ亜科	アジアゴールデンキャット属	アジアゴールデンキャット	アジアゴールデンキャット	3
+ネコ科	ネコ亜科	ネコ属	イエネコ	イエネコ	1
+ネコ科	ネコ亜科	ネコ属	ジャングルキャット	ジャングルキャット	2
+ネコ科	ネコ亜科	ネコ属	スナネコ	スナネコ	2
+ネコ科	ネコ亜科	ネコ属	クロアシネコ	クロアシネコ	4
+ネコ科	ネコ亜科	ネコ属	ヨーロッパヤマネコ	野良ネコ	1
+ネコ科	ネコ亜科	オセロット属	コロコロ	コロコロ	3
+ネコ科	ネコ亜科	オセロット属	ジョフロワネコ	ジョフロイネコ	2
+ネコ科	ネコ亜科	オセロット属	コドコド	コドコド	4
+ネコ科	ネコ亜科	オセロット属	ミナミジャガーネコ	南部オンシラ	4
+ネコ科	ネコ亜科	オセロット属	アンデスネコ	アンデスネコ	5
+ネコ科	ネコ亜科	オセロット属	オセロット	オセロット	2
+ネコ科	ネコ亜科	オセロット属	ジャガーネコ	ジャガーネコ	4
+ネコ科	ネコ亜科	オセロット属	マーゲイ	マーゲイ	3
+ネコ科	ネコ亜科	サーバル属	サーバル	サーバルキャット	2
+ネコ科	ネコ亜科	オオヤマネコ属	カナダオオヤマネコ	カナダオオヤマネコ	2
+ネコ科	ネコ亜科	オオヤマネコ属	オオヤマネコ	ユーラシアオオヤマネコ	2
+ネコ科	ネコ亜科	オオヤマネコ属	スペインオオヤマネコ	スペインオオヤマネコ	5
+ネコ科	ネコ亜科	オオヤマネコ属	ボブキャット	ボブキャット	2
+ネコ科	ネコ亜科	マヌルネコ属	マヌルネコ	マヌルネコ	2
+ネコ科	ネコ亜科	ベンガルヤマネコ属	ベンガルヤマネコ	ベンガル山猫	2
+ネコ科	ネコ亜科	ベンガルヤマネコ属	イリオモテヤマネコ	イリオモテヤマネコ	6
+ネコ科	ネコ亜科	ベンガルヤマネコ属	マレーヤマネコ	マレーヤマネコ	5
+ネコ科	ネコ亜科	ベンガルヤマネコ属	サビイロネコ	サビイロネコ	3
+ネコ科	ネコ亜科	ベンガルヤマネコ属	スナドリネコ	スナドリネコ	4
+ネコ科	ネコ亜科	アフリカゴールデンキャット属	アフリカゴールデンキャット	アフリカン ゴールデン キャット	4
+ネコ科	ネコ亜科	ピューマ属	ピューマ	プーマ	2
+ネコ科	ネコ亜科	ピューマ属	ジャガランディ	ジャガランディ	2
+ネコ科	ヒョウ亜科	ウンピョウ属	スンダウンピョウ	スンダウンピョウ	4
+ネコ科	ヒョウ亜科	ウンピョウ属	ウンピョウ	ウンピョウ	4
+ネコ科	ヒョウ亜科	ヒョウ属	ライオン	ライオン	4
+ネコ科	ヒョウ亜科	ヒョウ属	ジャガー	ジャガー	3
+ネコ科	ヒョウ亜科	ヒョウ属	ヒョウ	ヒョウ	4
+ネコ科	ヒョウ亜科	ヒョウ属	トラ	トラ	5
+ネコ科	ヒョウ亜科	ヒョウ属	ユキヒョウ	ユキヒョウ	4
+ネコ科	ヒョウ亜科	マーブルキャット属	マーブルキャット	マーブルキャット	3
