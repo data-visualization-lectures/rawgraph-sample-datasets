@@ -3,29 +3,56 @@
 ※ファイル名は「使用想定チャート名」+「 - 」+「テーマ」で構成されています。
 
 - Alluvial diagram - Hate crimes in New York.tsv
+  - ニューヨークでのヘイトクライム
 - Arc diagrams - Lannister vs Starck relationships.tsv
+  - ラニスター家とスターク家の関係
 - Bar chart - Netflix Original Series.tsv
+  - Netflix オリジナル シリーズ
 - Beeswarm plot - NY mean wages.tsv
+  - ニューヨーク の平均賃金
 - Bubble Chart - TOP 50 Groossing Movies.tsv
+  - 興行収入上位 50 本の映画
 - Bump chart - Foreign residents in Milan.tsv
+  - ミラノの外国人居住者
 - Chord Diagram - Estimated migration flows between macro-areas.csv
+  - マクロエリア間の推定移住フロー
 - Circle Packing - Most populated cities.tsv
+  - 人口が最も多い都市
 - Contour plot - Mean temperature in Paris 1944-1945.tsv
+  - 1944-1945 年のパリの平均気温
 - Convex hull - Iris flowers.tsv
+  - アヤメの花
 - Dendrogram - Felidae classification.tsv
+  - ネコ科の分類
 - Gantt chart - Italian PMs and presidents.tsv
+  - イタリアの首相と大統領
 - Hexbin - basketball shots.tsv
+  - バスケットボールのショット
 - Horizon Graph - EU Index of consumer prices.tsv
+  - EU 消費者物価指数
 - Line chart - RIAA Music format revenues.tsv
+  - RIAA 音楽フォーマットの収益
 - Line graph - US presidential election full.tsv
+  - 米国大統領選挙の完全版
 - Line Graph - US Presidential Elections.tsv
+  - 米国大統領選挙
 - Matrix Plot - Letters frequencies by language.tsv
+  - 言語別の文字頻度
 - Multiset Barchart - Happiness Index.tsv
+  - 幸福度指数
 - Radar Chart - Fifa players.tsv
+  - FIFA 選手
 - Sankey diagram - Energy flows.tsv
+  - エネルギー フロー
 - Slope graph - Premier SerieA ranking.tsv
+  - プレミア セリエA ランキング
 - Stacked barchart - GDP sector composition.tsv
+  - GDP セクター構成
 - Streamgraph - Olympics Medals.tsv
+  - オリンピック メダル
 - Sunburst - Wine Aromas.tsv
+  - ワインの香り
 - Treemap - Orchestra.tsv
+  - オーケストラ
 - Violin plot - Weather in New York.tsv
+  - ニューヨークの天気
